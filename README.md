@@ -18,3 +18,6 @@
 ## 2. Arya在线mardkown编辑器
 是一款基于 `Vue`、`Vditor`，为未来而构建的在线 Markdown 编辑器；轻量且强大：内置粘贴 HTML 自动转换为 Markdown，支持流程图、甘特图、时序图、任务列表，可导出携带样式的图片、PDF、微信公众号特制的 HTML 等等。
 网址为：https://markdown.lovejade.cn/
+
+## 3. Mermaid文生图表
+Mermaid 是一种基于 JavaScript 的图表和图表工具，它使用受 Markdown 启发的文本定义和渲染器来创建和修改复杂的图表。github仓库为：https://github.com/mermaid-js/mermaid?tab=readme-ov-file#gantt-diagram
