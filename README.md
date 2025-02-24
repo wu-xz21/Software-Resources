@@ -21,3 +21,6 @@
 
 ## 3. Mermaid文生图表
 Mermaid 是一种基于 JavaScript 的图表和图表工具，它使用受 Markdown 启发的文本定义和渲染器来创建和修改复杂的图表。github仓库为：https://github.com/mermaid-js/mermaid?tab=readme-ov-file#gantt-diagram
+
+## 4. DiskGenius Pro破解版
+DiskGenius是一款用于恢复由于硬盘损坏而丢失的数据的软件，Pro版本具备更加完善的功能。具体安装包见release-Diskgenius_Pro_x64_5.4.6.1441_cn 。
